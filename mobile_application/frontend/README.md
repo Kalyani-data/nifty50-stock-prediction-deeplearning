@@ -1,4 +1,4 @@
-# stock_prediction_app
+# NiftySense
 
 A new Flutter project.
 
