@@ -228,37 +228,37 @@ Run the app on an **emulator** or a **physical device**.
 ## 🖼️ Screenshots & UI
 
 ### 👋 Welcome Screen
-![Welcome Screen](mobile_application/images/welcome_page.png)
+![Welcome Screen](mobile_application/app_images/welcome_page.png)
 
 ### 📝 Signup Screen
-![Signup Screen](mobile_application/images/signup_page.png)
+![Signup Screen](mobile_application/app_images/signup_page.png)
 
 ### 🔐 Login Screen
-![Login Screen](mobile_application/images/login_page.png)
+![Login Screen](mobile_application/app_images/login_page.png)
 
 ### 📄 Terms & Conditions
-![Terms Screen](mobile_application/images/terms_page.png)
+![Terms Screen](mobile_application/app_images/terms_page.png)
 
 ### 🏠 Home Screen (Learning Hub)
-![Home Screen](mobile_application/images/home_page.png)
+![Home Screen](mobile_application/app_images/home_page.png)
 
 ### 📊 Prediction Example
-![Prediction Example](mobile_application/images/prediction_page.png)
+![Prediction Example](mobile_application/app_images/prediction_page.png)
 
 ### 💡 Recommendation Explanation
-![Recommendation Explanation](mobile_application/images/recommendation_explanation_page.png)
+![Recommendation Explanation](mobile_application/app_images/recommedation_explanation_Page.png)
 
 ### 🕒 Past Predictions
-![Past Predictions](mobile_application/images/past_predictions_page.png)
+![Past Predictions](mobile_application/app_images/past_predictions_page.png)
 
 ### 📈 FGI Index
-![FGI Index](mobile_application/images/FGI_page.png)
+![FGI Index](mobile_application/app_images/FGI_page.png)
 
 ### 🕰️ Past FGI Index
-![Past FGI Index](mobile_application/images/past_FGI_page.png)
+![Past FGI Index](mobile_application/app_images/past_FGI_page.png)
 
 ### 📰 Latest News Articles
-![Latest News](mobile_application/images/new_page.png)
+![Latest News](mobile_application/app_images/new_articles_page.png)
 
 ---
 
