@@ -76,7 +76,7 @@ def fetch_and_save_fgi_data():
     data = data.reset_index(drop=True)
     
     # Optionally, save the modified DataFrame to a new CSV file
-    data.to_csv("data_path", index=False)
+    data.to_csv(data_path, index=False)
     print("---------------------------------------------------------------------------")
     print(data.tail())
 
