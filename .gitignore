@@ -203,7 +203,11 @@ cython_debug/
 build/
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
-pubspec.lock
+
+android/local.properties
+.vscode/
+
+# pubspec.lock
 *.iml
 .idea/
 android/.gradle/
