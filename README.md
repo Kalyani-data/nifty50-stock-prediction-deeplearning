@@ -231,34 +231,34 @@ Run the app on an **emulator** or a **physical device**.
 ![Welcome Screen](mobile_application/images/welcome_page.png)
 
 ### 📝 Signup Screen
-![Signup Screen](images/signup_screen.png)
+![Signup Screen](mobile_application/images/signup_page.png)
 
 ### 🔐 Login Screen
-![Login Screen](images/login_screen.png)
+![Login Screen](mobile_application/images/login_page.png)
 
 ### 📄 Terms & Conditions
-![Terms Screen](images/terms_screen.png)
+![Terms Screen](mobile_application/images/terms_page.png)
 
 ### 🏠 Home Screen (Learning Hub)
-![Home Screen](images/home_screen.png)
+![Home Screen](mobile_application/images/home_page.png)
 
 ### 📊 Prediction Example
-![Prediction Example](images/prediction_example_screen.png)
+![Prediction Example](mobile_application/images/prediction_page.png)
 
 ### 💡 Recommendation Explanation
-![Recommendation Explanation](images/recommendation_explanation_screen.png)
+![Recommendation Explanation](mobile_application/images/recommendation_explanation_page.png)
 
 ### 🕒 Past Predictions
-![Past Predictions](images/past_predictions_screen.png)
+![Past Predictions](mobile_application/images/past_predictions_page.png)
 
 ### 📈 FGI Index
-![FGI Index](images/fgi_index_screen.png)
+![FGI Index](mobile_application/images/FGI_page.png)
 
 ### 🕰️ Past FGI Index
-![Past FGI Index](images/past_fgi_index_screen.png)
+![Past FGI Index](mobile_application/images/past_FGI_page.png)
 
 ### 📰 Latest News Articles
-![Latest News](images/latest_news_screen.png)
+![Latest News](mobile_application/images/new_page.png)
 
 ---
 
@@ -266,8 +266,8 @@ Run the app on an **emulator** or a **physical device**.
 
 For inquiries or collaboration:
 
-- 📩 teamkk.stockai@gmail.com  
-- 📩 sairam.stockai@gmail.com
+- 📩 padalakalyani66@gmail.com  
+- 📩 saikeerthana2720@gmail.com
 
 
 
